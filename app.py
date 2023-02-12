@@ -62,7 +62,7 @@ def sendMail(recp):
     smtp.quit()
 
 singer = st.text_input("Name of the singer:")
-n = st.number_input("Number of Videos:", min_value=2, max_value=18)
+n = st.number_input("Number of Videos:", min_value=10, max_value=60)
 m = st.number_input("Duration of each Audio Clip (in seconds):", min_value=20, max_value=90)
 recp = st.text_input("Email ID:")
 bt1 = st.button("Send Mail")
