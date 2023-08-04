@@ -7,8 +7,6 @@ Mashup ❄️ is a web application that allows you to create music mashups by co
 - [Dependencies](#dependencies)
 - [How to Use](#how-to-use)
 - [Important Notes](#important-notes)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
