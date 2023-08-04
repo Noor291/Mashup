@@ -41,7 +41,7 @@ Mashup ❄️ relies on the following Python libraries:
    ```
    streamlit run app.py
    ```
-5. The web application should now be running locally. Access it by visiting http://localhost:8501 in your web browser.
+5. The web application should now be running locally.
 
 6. In the application, enter the name of the singer, the number of videos to consider (between 10 and 60), the duration of each audio clip (between 20 and 90 seconds), and the recipient's email address.
 
